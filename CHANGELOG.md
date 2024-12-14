@@ -1,3 +1,7 @@
+## 2.0.0
+
+* Updated VK SDK to 2.2.1
+
 ## 0.0.1
 
 * initial release of VK ID Auth plugin that can authenticate via VK ID SDK and return 
