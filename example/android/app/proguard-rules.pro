@@ -1,0 +1,7 @@
+-dontwarn com.my.tracker.**
+-dontwarn com.vk.**
+-dontwarn kotlinx.parcelize.Parcelize
+-dontwarn org.bouncycastle.**
+-dontwarn org.conscrypt.**
+-dontwarn org.openjsse.**
+-dontwarn com.google.errorprone.annotations.Immutable

@@ -1,0 +1,39 @@
+PODS:
+  - Flutter (1.0.0)
+  - integration_test (0.0.1):
+    - Flutter
+  - vk_id_auth (0.0.1):
+    - Flutter
+    - VKID (~> 2.1)
+  - VKID (2.2.1):
+    - VKIDCore (= 2.2.1)
+  - VKIDCore (2.2.1)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - integration_test (from `.symlinks/plugins/integration_test/ios`)
+  - vk_id_auth (from `.symlinks/plugins/vk_id_auth/ios`)
+
+SPEC REPOS:
+  trunk:
+    - VKID
+    - VKIDCore
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  integration_test:
+    :path: ".symlinks/plugins/integration_test/ios"
+  vk_id_auth:
+    :path: ".symlinks/plugins/vk_id_auth/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  integration_test: 252f60fa39af5e17c3aa9899d35d908a0721b573
+  vk_id_auth: 28b760b93430ed4757d7a0c18a2f30f6515cfee5
+  VKID: 391e2a3baa294e8c9bf9ccbd9274597ccbc9e2c9
+  VKIDCore: 42c2b041b9b47e54a50cc0255d653f80b0dfb9f9
+
+PODFILE CHECKSUM: e9aa9ffe34ab096fa3d1bcd28441e9c53b0bb763
+
+COCOAPODS: 1.15.2
